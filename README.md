@@ -1,3 +1,5 @@
+{
+
 #include <iostream>
 #include <fstream>
 #include <vector>
@@ -102,4 +104,7 @@ int main() {
     outputFajl.close();
 
     return 0;
+}
+
+
 }
