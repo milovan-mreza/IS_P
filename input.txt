@@ -1,0 +1,5 @@
+D Raiffeisen kreditna 456DEF 2023
+I Erste debitna 456DDAD 0
+D Komercijalna kreditna 321GHI 2022
+I SocieteGeneral debitna 654abc 2023
+D NLB kreditna 987JKL 2012
